@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"I'am Gustavo Oberto",
+    "description":"I am a frontend developer and I use javascript and its libraries to create web applications",
+    "image":"canva.jpeg",
+    "bio":"I am a petrochemical engineer who reinvented himself changing from professional to web development, I enjoy creating web applications that provide good user experiences",
+    "contactmessage":"If you liked my profile and want to contact me, do not hesitate to do it here.",
+    "email": "obertogustavojimenez@gmail.com",
+    "phone": "Tel: 11 2762 8850",
+    "github":"https://github.com/obertogustavo10",
+    "project":"#portfolio",
+    "address":{
+      "street":"San Nicolas",
+      "city":"Capital Federal",
+      "state":"Buenos Aires",
+      "zip": "1019"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1_6YnTFokHiDVacE0Lha4qHHWqkdO_K_0/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/obertogustavo/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/obertogustavo/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/obertogustavo10",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are the most used technologies in my work.",
+    "education":[
+      {
+        "school":"CoderHouse",
+        "degree":"React Developer",
+        "graduated":"Nov 2020",
+        "description":"HTML5, CSS3, BOOTSTRAP, REACTS JS, FIREBASE, ETC."
+      },
+      {
+        "school":"CoderHouse",
+        "degree":"Web Developer",
+        "graduated":"May 2020",
+        "description":"HTML5, CSS3, SASS, BOOTSTRAP, MATERIAL DESIGN, GIT, HOSTING."
+      },
+      {
+        "school":"Udemy",
+        "degree":"Master in Javascript",
+        "graduated":"April 2020",
+        "description":"HTML5, CSS3, JQUERY, TYPESCRIPT, NODE.JS"
+      },
+      {
+        "school":"Depc Suite",
+        "degree":"Full stack developer",
+        "graduated":"Dec 2019",
+        "description":"HTML5, CSS3, BOOTSTRAP, JQUERY, PHP, POO, LARAVEL."
+      },
+      {
+        "school":"UNEFA",
+        "degree":"Petrochemical Engineer",
+        "graduated":"Dec 2016",
+        "description":"Chemical processes, unit operations, oil derivatives, polymerization, hydrocarbon distillation."
+      }
+    ],
+    "work":[
+      {
+        "company":"CoderHouse",
+        "title":"Web Development Tutor ",
+        "years":"Sep 2020 - Present",
+        "description":"Code correction and revision: HTML5, CSS3, BOOTSTRAP, SASS & GIT (challenges and final project deliveries). Accompaniment and monitoring during and outside of classes."
+      },
+      {
+        "company":"Lab Design Web",
+        "title":"Front end Developer",
+        "years":"July 2020 - Present",
+        "description":"Design and creation of web applications using javascript and its libraries (React js), component layout, implementation of aws service (S3, CloudFront, CDN, Amplify), Code optimization."
+      },
+      {
+        "company":"Freelancer",
+        "title":"Front end Developer",
+        "years":"Dec 2019 - june 2020",
+        "description":"Design and layout of dynamic websites in WORDPRESS, HTML5, CSS3, JAVASCRIPT, also layout in laravel (blade) and modification of react js components. Administration of hosting and domains."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS3",
+        "level":"70%"
+      },
+      {
+        "name":"React Js",
+        "level":"55%"
+      },
+      {
+        "name":"BOOTSTRAP",
+        "level":"90%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"60%"
+      },
+      {
+        "name":"NODE JS",
+        "level":"50%"
+      },
+      {
+        "name":"AWS",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Occiquimicos de Venezuela",
+        "category":"Chemicals company",
+        "image":"portfolio-02.jpg",
+        "url":"https://www.occiquimicosvnzla.com/"
+      },
+      {
+        "title":"Lion of Juda",
+        "category":"Photography studio",
+        "image":"portfolio-03.jpg",
+        "url":"https://lionofjuda10.000webhostapp.com/index.html"
+      },
+      {
+        "title":"Andres Mujica",
+        "category":"Professional portfolio",
+        "image":"portfolio-07.jpg",
+        "url":"https://www.labdesignweb.com/fotografia/index.html"
+      },
+      {
+        "title":"AngusNails",
+        "category":"Manicure Studios",
+        "image":"portfolio-04.jpg",
+        "url":"https://angusnails.000webhostapp.com/indexx.html"
+      },
+      {
+        "title":"Labdesignweb",
+        "category":"digital services company.",
+        "image":"portfolio-10.jpg",
+        "url":"https://www.labdesignweb.com/"
+      }
+    ]
+  }
+}
